@@ -1,1 +1,1 @@
-** payqr
+# PayQR
