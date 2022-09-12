@@ -19,7 +19,7 @@ The underuse of the **electronic payment** and the high demand of tangible money
 ## Main features
 
 - Receive or send money: via a QR code.
-- Daily, weekly and monthly history of the expenses.
+- Weekly, monthly and yearly history of the expenses.
 - Statistics: to calculate for the customers how much should they spend in terms of their wages.
 
 ## Coming features
