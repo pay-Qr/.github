@@ -1,4 +1,4 @@
-# PayQR
+# Npay
 
 ## Introduction
 
